@@ -1,2 +1,3 @@
-# Javascript30 Template
-Single page website development environment with Prettier, ESLint, and airbnb formatting guidelines.
+# Shift Click to Check Boxes
+Hold shift to select multiple items. Written in javascript. Part of the Javascript30 challenge.
+
